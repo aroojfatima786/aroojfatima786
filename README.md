@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner github.png" />
+  <img src="./banner.png" />
 </p>
 <h1 align="center">Hi 👋, I'm Arooj Fatima</h1>
 <h3 align="center">Junior Full Stack Developer | Web3 & Scalable Systems 🚀</h3>
